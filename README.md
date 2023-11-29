@@ -10,14 +10,11 @@ Data Analysis Projects: Dive into detailed projects highlighting my skills in da
 Documentation: Each project is accompanied by comprehensive documentation, providing insights into methodologies, libraries used, and analysis outcomes.
 
 Technologies Used
-Python
-Pandas
-Matplotlib
-Seaborn
-NumPy
-Tableau
-And more!
+
+Python, Pandas, Matplotlib, Seaborn, NumPy, Tableau, And more!
 
 About Me
+
 I am passionate about Python development and data analysis. Feel free to connect with me on LinkedIn to discuss collaborations or share insights.
+
 Fun fact: I'm also an award-winning film music composer. (You can find my music on Spotify by searching for Paul Emmerich)
